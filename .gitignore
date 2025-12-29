@@ -1,0 +1,23 @@
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large datasets
+data/
+datasets/
+Lab3/train.csv
+Lab3/test.csv
+*.csv
+*.xlsx
+*.xls
+
+# Models / checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Other large artifacts
+outputs/
