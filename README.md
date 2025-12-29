@@ -49,7 +49,11 @@ Topics covered:
 
 - binary vs multi-class classification
 - feature projection & visualization
-- confusion matrix & metric analysis  
+- confusion matrix & metric analysis
+
+> ⚠️ **Data Notice**  
+> The training and testing dataset files (e.g., `train.csv` and `test.csv`) are **NOT included in this repository due to file size limits**.  
+> Download the dataset manually and place it in the `Lab3/` directory before running the notebook.
 
 ---
 
@@ -80,6 +84,10 @@ Key components:
 - label-conditioned image generation (digits 0–9)
 
 Outputs: **generate images conditioned on labels**.
+
+> ⚠️ **Data Notice (Lab 5 — MNIST)**  
+> The MNIST dataset is **not downloaded automatically by the notebook**.  
+> Download MNIST manually and place it in the required directory before running the diffusion model.
 
 ---
 
